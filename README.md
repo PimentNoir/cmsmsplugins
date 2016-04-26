@@ -1,2 +1,2 @@
-# cmsmsplugins
-CMS made simple plugins
+# CMS made simple plugins
+Useful CMS made simple plugins that are not shipped with the CMSMS tarball.
